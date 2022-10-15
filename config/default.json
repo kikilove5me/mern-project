@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "kikilove5me mern",
+    "mongoUri": "mongodb+srv://jest347:Deluvion1993@cluster0.llqg8kh.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
